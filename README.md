@@ -21,11 +21,15 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
 
-$ git clone https://github.com/your-username/your-project.git
-$ cd your-project
+$ git clone https://github.com/ShikharKunal/HackAI_Hack-230619  <br>
+$ cd python
 
 
 2. Install the required dependencies:
+3. Move to the required directory and run the file:
+$ cd src <br>
+$ poetry run python main.py
+(Location of main.py --> python/src)
 
 
 ## Usage

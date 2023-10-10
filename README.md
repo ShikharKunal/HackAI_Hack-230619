@@ -29,7 +29,7 @@ cd python
 3. Move to the required directory and run the file:
 
 ```bash
-cd src <br>
+cd src 
 poetry run python main.py
 ```
 (Location of main.py --> python/src)
@@ -43,5 +43,10 @@ The Temperature Alert Agent allows you to monitor real-time temperature conditio
 
 - Periodically obtains current temperature information from OpenWeatherMap using an API key and displays it
 - Interactive Graphical User Interface (GUI)
+
+### Comments: 
+- If you encounter any problem while running the file, contact kunalshikhar@gmail.com :).
+- Made the project with love.
+
 
 &copy; HackAI_TeamID_230619 | 2023
